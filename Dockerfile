@@ -15,4 +15,8 @@ RUN pip3 install -U pip distlib setuptools
 
 WORKDIR /workspace
 
+# install dependencies
+COPY requirements.txt /workspace
+RUN pip3 install -r requirements.txt
+
 CMD ["/bin/bash", "-c"]
