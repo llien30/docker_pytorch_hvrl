@@ -21,7 +21,7 @@ docker container exec -it [IMAGE NAME] bash
 1. **Sharing** the GPU/Storage of the machine
 2. **Not sharing** the libraries
 
-<img src="imgs/docker_container.png" width="400">
+<img src="imgs/docker_container.png" width="300">
 
 #### 1. Sharing the GPU/Storage of the machine
 Because continers are running on the same OS/Infrastructure, they sharing the GPU and storage of the machine.
