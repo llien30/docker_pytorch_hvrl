@@ -1,3 +1,4 @@
-libs/__pycache__
 data
 *.png
+libs
+train.py
