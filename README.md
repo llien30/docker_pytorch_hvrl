@@ -30,8 +30,8 @@ Please keep an eye on the GPU memory and the storage.
 #### 2. Not sharing the libraries
 Libraries are not dependent on others. Feel free to create your own environment.
 
-### Useful Commands
+## Useful Commands
 Will be added soon...
 
-### License
+## License
 This repository is released under the MIT License.
