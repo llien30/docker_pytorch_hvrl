@@ -10,3 +10,9 @@ To run the script in docker container, please run
 ```sh
 docker container exec -it [IMAGE NAME] bash
 ```
+
+## What is Docker?
+
+### Overview
+![docker_overview](imgs/docker_overview.pdf)
+
