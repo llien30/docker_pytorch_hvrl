@@ -14,5 +14,5 @@ docker container exec -it [IMAGE NAME] bash
 ## What is Docker?
 
 ### Overview
-![docker_overview](imgs/docker_overview.pdf)
+![docker_overview](imgs/docker_overview.png)
 
