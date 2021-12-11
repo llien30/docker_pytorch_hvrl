@@ -14,5 +14,24 @@ docker container exec -it [IMAGE NAME] bash
 ## What is Docker?
 
 ### Overview
-![docker_overview](imgs/docker_overview.png)
+<img src="imgs/docker_overview.png" width="400">
 
+### How to work on the machine?
+
+1. **Sharing** the GPU/Storage of the machine
+2. **Not sharing** the libraries
+
+<img src="imgs/docker_container.png" width="200">
+
+##### 1. Sharing the GPU/Storage of the machine
+Because continers are running on the same OS/Infrastructure, they sharing the GPU and storage of the machine.
+Please keep an eye on the GPU memory and the storage.
+
+##### 2. Not sharing the libraries
+Libraries are not dependent on others. Feel free to create your own environment.
+
+### Useful Commands
+Will be added soon...
+
+### License
+This repository is released under the MIT License.
